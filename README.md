@@ -1,0 +1,1 @@
+# niggeria-flag
