@@ -1,0 +1,35 @@
+body{
+    
+}
+.nigeria{
+    height: 600px;
+    width: 900px;
+    background-color: green;
+    position: absolute;
+    margin: auto;
+}
+.nigeria>div{
+    background-color: white;
+    height: 300px;
+    width: 900px;
+    position: relative;
+    top: 65px;
+    
+}
+.nigeria > div > div{
+    height: 150px;
+    width: 500px;
+    border-radius: 50%;
+    position: relative;
+    top: 90px;
+    left: 200px;
+}
+.nigeria>div>div>p{
+    color: green;
+}
+p{
+    margin: 0;
+    font-size: 5rem;
+    text-align: center;
+    color: white;
+}
